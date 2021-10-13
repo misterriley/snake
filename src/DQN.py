@@ -2,12 +2,12 @@ from collections import deque
 from operator import mul
 import functools
 
-from keras.layers import Dense, Flatten, Reshape, Concatenate
+from keras.layers import Dense, Concatenate
 from keras.models import Sequential
 from keras.models import load_model
 from tensorflow.keras import losses
 from tensorflow.keras.models import Model
-
+ 
 import numpy as np
 
 
