@@ -3,15 +3,14 @@ Created on Sep 18, 2021
 
 @author: bleem
 '''
-
-import random
+import random 
 
 from gym import spaces
 from pygame import Rect
 import gym
 import pygame
 
-import numpy as np
+import numpy as np 
 
 NORTH = 0
 EAST = 1
